@@ -10,7 +10,7 @@ body {
   background-color: #eaf6f6;
   position: static;
   height: auto;
-  padding-top: 100px;
+  padding-top: 30px;
 }
 
 h1 {
@@ -23,8 +23,9 @@ h1 {
 
 h2 {
   color: #66BFBF;
-  margin: 30px auto;
+  margin: 15px auto 30px;
   font-size: 2.5rem;
+  font-weight: bolder;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -49,24 +50,24 @@ a:hover {
   color: #eaf6f6;
 }
 
-#top-cloud {
+.top-cloud {
   position: absolute;
-  top: 60px;
+  top: 30px;
   right: 20%;
 }
 
-#bottom-cloud {
+.bottom-cloud {
   position: absolute;
-  top:400px;
+  top:330px;
   left: 20%;
 }
 
 
 .skill-row {
-  width: 50%;
+  width: 60%;
   margin: 100px auto 100px;
   text-align: left;
-  line-height: 2;
+  line-height: 1.5;
 }
 
 .website {
@@ -89,7 +90,7 @@ a:hover {
 
 .profile {
   margin: 100px auto;
-  width: 40%;
+  width: 50%;
   line-height: 2;
 }
 
@@ -100,8 +101,13 @@ hr {
   margin: 100px auto;
 }
 
+br {
+  height: 1px;
+}
+
 .skills {
   margin: 100px auto;
+  width: 60%;
 }
 
 .contact-me {
