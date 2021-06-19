@@ -65,34 +65,34 @@ a:hover {
 
 
 .skill-row {
-  width: 70%;
+  width: 80%;
   margin: 100px auto 100px;
   text-align: center;
   line-height: 1.75;
 }
 
 .website {
-  width: 40%;
+  width: 50%;
   margin: auto;
 }
 
 .map {
-  width: 40%;
+  width: 50%;
   margin: auto;
 }
 
 .earthquake {
-  width: 40%;
+  width: 50%;
   margin: auto;
 }
 
 .skill-description {
-  text-align: center;
+  text-align: justify;
 }
 
 .profile {
   margin: 100px auto;
-  width: 40%;
+  width: 60%;
   line-height: 2;
 }
 
@@ -170,5 +170,5 @@ br {
   color: #eaf6f6;
   padding-top: 20px;
   line-height: 2;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }

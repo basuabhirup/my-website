@@ -72,19 +72,19 @@ a:hover {
 }
 
 .website {
-  width: 18%;
+  width: 25%;
   float: left;
   margin-right: 5%;
 }
 
 .map {
-  width: 18%;
+  width: 25%;
   float: right;
   margin-left: 5%;
 }
 
 .earthquake {
-  width: 18%;
+  width: 25%;
   float: left;
   margin-right: 5%;
 }
@@ -173,5 +173,5 @@ br {
   color: #eaf6f6;
   padding-top: 20px;
   line-height: 2;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
