@@ -157,11 +157,11 @@ br {
 .bottom-container {
   background-color: #66bfbf;
   margin: 10px auto 0;
-  padding: 30px;
+  padding: 0.5rem;
 }
 
 .footer-link {
-  margin: 0 10px 50px;
+  margin: 0 10px 10px;
   color: #11999e;
   line-height: 2;
 }
@@ -169,7 +169,7 @@ br {
 .copyright {
   margin: 0;
   color: #eaf6f6;
-  padding-top: 20px;
+  padding-top: 10px;
   line-height: 2;
   font-size: 0.8rem;
 }
